@@ -6,7 +6,7 @@ courselists:
   - 4c2db268-4d21-49c9-93f8-b125ee6e98ab
   website: ocw-www3
 cover-image:
-  content: ''
+  content: 07b18ffc-a1db-43e7-9333-1adb5fb10c52
   website: ocw-www3
 description: CC1 D
 draft: false
